@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exercise-1</title>
+	</head>
+<body style="padding: 30px;">
+<center>
+<h1><i>Beware of password hackers and crackers!</i></h1>
+</center>
+<hr />
+<div style="padding: 0px 80px;">
+<p align="justify">
+The threat of hackers and crackers is for real, and is alike for
+everything for everyone. If the security breach at the Babha Atomic
+Research Center last year by the hacker group milworm didn't convince
+you of their capabilities, then consider this: James Davis aka jdavis_a,
+a resident of
+<a href="www.geocities.com/SiliconValley/Bit/2483">
+www.geocities.com/SiliconValley/Bit/2483</a>
+
+homestead community on the Internet, might just be reading your e-mail
+in your mailbox right now, or using your account for some benign
+Internet surfing, or exchanging it with someone else on the Net for more
+such accounts!<br />
+Surprised? Or scared?
+</p>
+<p>
+<b style="color: red;">Formula</b><br />
+(a-b)<sup>2</sup> = a<sup>2</sup> - 2ab + b<sup>2</sup> <br />
+C<sub>6</sub> H<sub>12</sub> O<sub>6</sub> + 6O<sub>2</sub>
+</p>
+<p align="justify">
+Whatever it is, jdevis_4 claims in his home page Free VSNL passwords
+that he has got exactly 108 working passwords (and growing daily),
+<i>36 satyam, 31 MNTL, 11 WimiNet and 23 online passwords.</i>
+</p>
+</div>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exercise-2</title>
+</head>
+<body>
+	<h1>Heading 1: Example on Unordered List</h1>
+	<ul>
+		<li>Sportstar</li>
+		<li>Business Week</li>
+		<li>Time</li>
+	</ul>
+
+	<h2>Heading 2: Example on Ordered List</h2>
+	<ol>
+		<li>Sportstar</li>
+		<li>Business Week</li>
+		<li>Time</li>
+	</ol>
+
+	<h3>Heading 3: Example on Definition List</h3>
+	<dl>
+		<dt>Sports Magazine</dt>
+		<dd>Sportstar</dd>
+		<dt>Business Magazine</dt>
+		<dd>Business Week</dd>
+	</dl>
+</body>
+</html>
+
+
+	<!DOCTYPE html>
+<html>
+	<head>
+		<title>Exercise-3.1</title>
+	</head>
+	<body background="image/landscape.jpg" >
+		
+	
+	>
+		<div
+			style="
+				background-color: rgba(255, 255, 255);
+				width: 100%;
+				height: 100%;
+			"
+		>
+			<center>
+				<h1><i>What is Web Design?</i></h1>
+			</center>
+			<div style="padding: 10px 50px;">
+				<p align="justify">
+					Web design refers to the design of websites that are displayed on the
+					internet. It usually refers to the user experience aspects of website
+					development rather than software development. Web design used to be
+					focused on designing websites for desktop browsers; however, since the
+					mid-2010s, design for mobile and tablet browsers has become
+					ever-increasingly important.
+				</p>
+			</div>
+		</div>
+	</body>
+</html>
