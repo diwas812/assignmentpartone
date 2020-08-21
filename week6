@@ -1,0 +1,195 @@
+<HTML>
+<BODY>
+<IMG SRC="image/image1.jpg" border=5px><BR>
+<a href="https://peopleimages.com/image/zoomgate/472445">original image</a></BR>
+<h5>image1</h5><BR><BR><BR><BR>
+<IMG SRC="image/image2.jpg" width="100" height="100"><br><br>
+<h5>image2</h5><br><br>
+<IMG SRC="img src="image/image2.jpg" width="100" height="100">
+<a href="https://img.traveltriangle.com/blog/wp-content/uploads/2018/09/covera-gh.jpg">original image</a></br>
+<img src="image/image3.jpg"  width="250" align="right" hspace="10px" vspace="10px" /><br><br><br><br><br>
+<a href="https://peopleimages.com/image/zoomgate/868476">original image</a>
+<h5 align="right">image3</h5><br><br>
+<br><br><br><br><br><br><IMG SRC="image/image4.png" Hspace="50" Vspace="50"> <br>
+<a href="https://peopleimages.com/image/zoomgate/475389">original image</a>
+<h5>image4</h5>
+Image is a physical likeness or representation of a person, animal, or thing, photographed, painted, sculptured, or otherwise made visible..
+</BODY>
+</HTML>
+
+
+<HTML>
+<HEAD>
+<TITLE>Home Page</TITLE>
+</HEAD>
+<BODY>
+	<p>This page will take you to the official page of The British college. If you want to know in detail about the college then click on the about button below.<br>
+		If you want to directly go to the contact information of lri school then click on the about button below.<br>
+		<A HREF="About.html">About</A><BR>
+		<A HREF="About.html #CONTACT">CONTACT</A><BR> 
+		If you want to go to google click the image below.<br>
+		<A HREF="https://www.google.com"><IMG SRC="image/Google.jpg" height="100" width="400"><br>
+		</p>
+</BODY>
+</HTML>
+
+<HTML>
+<HEAD>
+	<TITLE>The British College</TITLE>
+</HEAD>
+<BODY>
+	<H1> THE BRITISH COLLEGE</H1>
+	<P>The British College strives to be a world-class college in Nepal offering British and international qualifications equipping our graduates with the knowledge, skills and values they need for success in the global job market and becoming creative entrepreneurs. In this regard we have a distinctive identity as the pioneering global college in Nepal. We offer reputed UK degrees and courses which are relevant to the current job market, enhancing each and every student's employability.
+	<br><br>
+
+	We attract the best and the brightest students and, consequently, TBC offers an unforgettable academic experience transcending international boundaries with thought-provoking incision. Being the pioneering international college in Nepal, we also provide our students with unparalleled exposure and experiences both within and outside Nepal.<br><br> .The defining characteristic of The British College is the local-to-global approach in the provision of our degrees and courses. Student exchange programmes and internships with multi-national companies serve as highlights of this unique student experience. Staffed by tutors and administrative personnel from the UK and Nepal, the College provides a premium education in Nepal.
+</br>
+	The British College offers Undergraduate Programmes and Postgraduate Programmes which are awarded by UK universities: University of the West of England (UWE) and Leeds Beckett University (LBU).
+</P>
+		
+	</BR>
+	<A NAME="CONTACT"></A><BR>
+	<H1>CONTACT</H1>
+	PHONE NO=4263225,2414567<BR>
+	EMAIL=TBC@edu.np<br>
+	Location= Thapathali, Kathmandu,Nepal<br>
+	Website= www.tbc.com<br>
+	PHONE NO=4263225,2414567<BR>
+	EMAIL=TBC@edu.np<br>
+	Location= Thapathali, Kathmandu,Nepal<br>
+	Website= www.tbc.com<br>
+	PHONE NO=4263225,2414567<BR>
+	EMAIL=TBC@edu.np<br>
+	Location= Thapathali, Kathmandu,Nepal<br>
+	Website= www.tbc.com<br>
+
+	<P>The British College strives to be a world-class college in Nepal offering British and international qualifications equipping our graduates with the knowledge, skills and values they need for success in the global job market and becoming creative entrepreneurs. In this regard we have a distinctive identity as the pioneering global college in Nepal. We offer reputed UK degrees and courses which are relevant to the current job market, enhancing each and every student's employability.
+	<br><br>
+
+	We attract the best and the brightest students and, consequently, TBC offers an unforgettable academic experience transcending international boundaries with thought-provoking incision. Being the pioneering international college in Nepal, we also provide our students with unparalleled exposure and experiences both within and outside Nepal.<br><br> .The defining characteristic of The British College is the local-to-global approach in the provision of our degrees and courses. Student exchange programmes and internships with multi-national companies serve as highlights of this unique student experience. Staffed by tutors and administrative personnel from the UK and Nepal, the College provides a premium education in Nepal.
+</br>
+	The British College offers Undergraduate Programmes and Postgraduate Programmes which are awarded by UK universities: University of the West of England (UWE) and Leeds Beckett University (LBU).
+</P>
+	
+	
+</p>
+</BR>
+</BODY>
+</HTML>
+
+
+
+
+
+		
+<HTML>
+<HEAD>
+<TITLE>LAB3 Exercise1</TITLE>
+</HEAD>
+<BODY>
+<h1 >Search our web site!</h1>
+<hr color="black"><br><br>
+</h2>Where do you want to search our web site?</h2><br><br><br></BODY>
+<FORM NAME="fome" Action="url" method="get">
+<input type="radio" id="Whole site" name="Ques 1" value="Whole site" checked="checked">Whole site<br>
+<input type="radio" id="Business partners section" name="Ques 1" value="Business partners section" >Business partners section<br>
+<input type="radio" id="Corporate communications section" name="Ques 1" value="Corporate communications section" >Corporate communications section<br>
+<input type="radio" id="Lotus education section" name="Ques 1" value="Lotus education section" >Lotus education section<br><br><br>
+Enter a word or two that we can search on:<br>
+<INPUT TYPE="TEXT" NAME="Name" size="40" MAXLENGTH="25"><br><br>
+<input type="button" value="Submit">
+<input type="button" value="Clear">
+</BODY>
+</HTML>
+
+
+
+<html>
+<body>
+<table border=0 align="center"  bgcolor="white" cellpadding="7">
+<form name="fome3" method="get">
+    <tr>
+<th align="left">HTML Form Test</th></tr>
+<tr>
+    <th>
+     Name
+    </th>
+    <td>
+       <input type="text" name="Name" required/>
+    </td>
+</tr>
+<tr>
+    <th>
+     Address
+    </th>
+    <td>
+        <input type="text" name="Address">
+    </td>
+</tr>
+
+<tr>
+    <th>
+    Email
+    </th>
+    <td>
+        <input type="text" name="Email">
+    </td>
+</tr>
+
+
+<tr>
+    <th>
+    Gender
+    </th>
+    <td>
+        Male<input type="radio" id="male" name="gender" value="male">
+        Female<input type="radio" id="female" name="gender" value="female">
+    </td>
+</tr>
+<tr>
+    <th>
+     Hobbies
+    </th>
+    <td>
+        Sports<input type="checkbox" name="hobbies" value="Sports">
+        Movies<input type="checkbox" name="hobbies" value="Movies">
+        Travelling<input type="checkbox" name="hobbies" value="Travelling">
+    </td>
+</tr>
+
+<tr>
+    <th>
+     Country
+    </th>
+    <td>
+        <select name="Country">
+        <option>Nepal</option>
+        </select>
+    </td>
+</tr>
+<tr>
+    <th>
+    Message
+    </th>
+    <td>
+        <textarea cols="35" rows="9" name="Message"></textarea>
+    </td>
+</tr>
+<tr>
+    <td>
+
+    </td>
+<td> 
+<input type="Submit" value="Submit">   
+<input type="Reset" value="Reset">
+    </td>
+</tr>
+</form>
+</table>
+</body>
+</html>
+
+
+
+      
+
