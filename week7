@@ -1,0 +1,110 @@
+<HTML>
+<HEAD>
+<TITLE>LAB3 Exercise1</TITLE>
+</HEAD>
+<BODY>
+<h1 >Search our web site!</h1>
+<hr color="black"><br><br>
+</h2>Where do you want to search our web site?</h2><br><br><br></BODY>
+<FORM NAME="fome" Action="url" method="get">
+<input type="radio" id="Whole site" name="Ques 1" value="Whole site" checked="checked">Whole site<br>
+<input type="radio" id="Business partners section" name="Ques 1" value="Business partners section" >Business partners section<br>
+<input type="radio" id="Corporate communications section" name="Ques 1" value="Corporate communications section" >Corporate communications section<br>
+<input type="radio" id="Lotus education section" name="Ques 1" value="Lotus education section" >Lotus education section<br><br><br>
+Enter a word or two that we can search on:<br>
+<INPUT TYPE="TEXT" NAME="Name" size="40" MAXLENGTH="25"><br><br>
+<input type="button" value="Submit">
+<input type="button" value="Clear">
+</BODY>
+</HTML>
+
+
+
+<html>
+<body>
+<table border=0 align="center"  bgcolor="white" cellpadding="7">
+<form name="fome3" method="get">
+    <tr>
+<th align="left">HTML Form Test</th></tr>
+<tr>
+    <th>
+     Name
+    </th>
+    <td>
+       <input type="text" name="Name" required/>
+    </td>
+</tr>
+<tr>
+    <th>
+     Address
+    </th>
+    <td>
+        <input type="text" name="Address">
+    </td>
+</tr>
+
+<tr>
+    <th>
+    Email
+    </th>
+    <td>
+        <input type="text" name="Email">
+    </td>
+</tr>
+
+
+<tr>
+    <th>
+    Gender
+    </th>
+    <td>
+        Male<input type="radio" id="male" name="gender" value="male">
+        Female<input type="radio" id="female" name="gender" value="female">
+    </td>
+</tr>
+<tr>
+    <th>
+     Hobbies
+    </th>
+    <td>
+        Sports<input type="checkbox" name="hobbies" value="Sports">
+        Movies<input type="checkbox" name="hobbies" value="Movies">
+        Travelling<input type="checkbox" name="hobbies" value="Travelling">
+    </td>
+</tr>
+
+<tr>
+    <th>
+     Country
+    </th>
+    <td>
+        <select name="Country">
+        <option>Nepal</option>
+        </select>
+    </td>
+</tr>
+<tr>
+    <th>
+    Message
+    </th>
+    <td>
+        <textarea cols="35" rows="9" name="Message"></textarea>
+    </td>
+</tr>
+<tr>
+    <td>
+
+    </td>
+<td> 
+<input type="Submit" value="Submit">   
+<input type="Reset" value="Reset">
+    </td>
+</tr>
+</form>
+</table>
+</body>
+</html>
+
+
+
+      
